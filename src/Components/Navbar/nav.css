@@ -1,0 +1,32 @@
+.cut-div {
+  clip-path: polygon(0 0, 0 100%, 70% 100%, 100% 0%, 100% 0);
+}
+.box {
+  margin-left: auto;
+  margin-right: 6px;
+  height: 30px;
+  width: 190px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px, 3px, 8px;
+  margin-top: 18px;
+}
+.arrow {
+  margin-right: 60px;
+  height: 30px;
+  width: 40px;
+  border-radius: 5px;
+  background-color: white;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px, 3px, 8px;
+  margin-top: 18px;
+}
+.arraw-icon{
+    margin-left: 8px;
+    margin-top: 2px !important;
+}
+.text-on-box{
+    margin-left: 70px;
+    margin-top: 7px;
+    font-size: x-small;
+    font-weight: 700;
+}

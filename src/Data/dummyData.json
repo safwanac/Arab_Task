@@ -1,0 +1,29 @@
+[{
+    "category":"Basic",
+    "discountPrice":"$89.99/mo",
+    "price":"$9.99/mo",
+    "uptousers":"Upto 25 users",
+    "uptostorage":"Upto 25gb storage",
+    "support":"Email support",
+    "btn":"#ffe7a9"
+},
+{
+    "category":"Stanterd",
+    "discountPrice":"$189.99/mo",
+    "price":"$99.99/mo",
+    "uptousers":"Upto 50 users",
+    "uptostorage":"Upto 60gb storage",
+    "support":"Email+chat support",
+    "btn":"#ff9494"
+
+},
+{
+    "category":"Premium",
+    "discountPrice":"$389.99/mo",
+    "price":"$199.99/mo",
+    "uptousers":"Upto 75 users",
+    "uptostorage":"Upto 100gb storage",
+    "support":"Email+Chat+Whatsapp support",
+    "btn":"#e7a2ff"
+}
+]
